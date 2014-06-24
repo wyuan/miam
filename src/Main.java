@@ -11,7 +11,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		Stomach stomach = new Stomach();
-		System.out.println(stomach);
+		System.out.println(stomach);//aaa
 	}
 
 }
