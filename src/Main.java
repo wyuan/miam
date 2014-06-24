@@ -7,7 +7,7 @@ import my.stomach.Stomach;
 public class Main {
 
 	/**
-	 * @param args
+	 * @param argsadfasfasf
 	 */
 	public static void main(String[] args) {
 		Stomach stomach = new Stomach();
